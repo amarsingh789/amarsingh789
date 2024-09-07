@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning full stack
 - 📫 How to reach me amar298976@gmail.com
 - ⚡ Fun fact slow learner
-- passionate about learning new technology
+- ⚡ passionate about learning new technology
   
