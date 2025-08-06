@@ -34,5 +34,5 @@
 
 ## 🌐 Connect With Me
 
-<!-- Add your LinkedIn or portfolio links here -->
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/amar-singh-39b4a3281/)) 
+- [LinkedIn](https://www.linkedin.com/in/amar-singh-39b4a3281/)
+- 📫 Reach me at: amar298976@gmail.com
