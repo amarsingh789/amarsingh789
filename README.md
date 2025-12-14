@@ -1,6 +1,7 @@
+<!--
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <h3 align="center">💻 Frontend Developer | 🌱 MERN Stack Learner | 🚀 Tech Enthusiast</h3>
-
+-->
 ---
 <!--
 **amarsingh789/amarsingh789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +19,7 @@
 
 ---
 -->
+<!--
 ### 👨‍💻 About Me
 - 🔭 **Currently working on:** Node.js & MERN Stack Projects  
 - 🌱 **Learning:** Full Stack Development (React, Node.js, Express, MongoDB)  
@@ -26,6 +28,7 @@
 - 📫 **Reach me at:** `amar298976@gmail.com`
 
 ---
+-->
 <!--
 ## 🛠️ Tech Stack
 
@@ -35,7 +38,7 @@
 - Currently learning: React.js, Node.js, Express.js, MongoDB  
 ---
 -->
-
+<!--
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,7 +54,7 @@
 </p>
 
 ---
-
+-->
 <!--
 ## 📈 GitHub Stats
 
@@ -59,7 +62,7 @@
 
 ---
 -->
-
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarsingh789&show_icons=true&theme=tokyonight" alt="Amar's GitHub stats" height="150"/>
@@ -74,6 +77,7 @@
 - 📌 [**Responsive-sidebar-menu **](#) – Html + Css 
 
 ---
+-->
 <!--
 
 ## 🌐 Connect With Me
@@ -82,7 +86,7 @@
 - 📫 Reach me at: amar298976@gmail.com
 
   -->
-
+<!--
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://https://www.linkedin.com/in/amar-singh-39b4a3281/" target="_blank">
@@ -93,6 +97,73 @@
   </a>
 </p>
 
+
+
+-->
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Amar%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=51&descAlign=62" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%8C%B1;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/amar-singh-********/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin icon"/>
+  </a>
+  &nbsp; <a href="mailto:amar******@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail icon"/>
+  </a>
+</div>
+
+<br/>
+
+<h3>👋 About Me</h3>
+
+- 🔭 **Currently working on:** Node.js & MERN Stack Projects
+- 🌱 **Learning:** React, Express, MongoDB (Full Stack Mastery)
+- 💡 **Specialty:** Making responsive & clean UI with Tailwind CSS
+- ⚡ **Mantra:** "I might be a slow learner, but I never quit!"
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| **Frontend** | **Backend & DB** | **Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+
+---
+
+### 📊 Github Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarsingh789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh789&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+<br/>
+<div align="center">
+  <img src="http://github-readme-activity-graph.vercel.app/graph?username=amarsingh789&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true&color=3F51B5" alt="activity graph" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Tech Stack | View |
+| :--- | :--- | :--- |
+| **Zomato Landing Page** 🍔 | `Tailwind CSS` `HTML5` | [Live Demo](#) • [Code](#) |
+| **Todo App** ✅ | `Bootstrap` `JavaScript` | [Live Demo](#) • [Code](#) |
+| **Responsive Sidebar** 📱 | `HTML` `CSS` | [Live Demo](#) • [Code](#) |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarsingh789&style=flat-square&color=blue" alt="profile views" />
+</div>
 
 
 
