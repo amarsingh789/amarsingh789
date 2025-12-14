@@ -111,10 +111,10 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/amar-singh-********/" target="_blank">
+  <a href="https://www.linkedin.com/in/amar-singh-39b4a3281/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin icon"/>
   </a>
-  &nbsp; <a href="mailto:amar******@gmail.com" target="_blank">
+  &nbsp; <a href="mailto:amar298976@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail icon"/>
   </a>
 </div>
@@ -123,8 +123,8 @@
 
 <h3>👋 About Me</h3>
 
-- 🔭 **Currently working on:** Node.js & MERN Stack Projects
-- 🌱 **Learning:** React, Express, MongoDB (Full Stack Mastery)
+- 🔭 **Currently working on:** React & MERN Stack Projects
+- 🌱 **Learning:** React, Express, MongoDB (Full Stack Mastery), Gen AI
 - 💡 **Specialty:** Making responsive & clean UI with Tailwind CSS
 - ⚡ **Mantra:** "I might be a slow learner, but I never quit!"
 
