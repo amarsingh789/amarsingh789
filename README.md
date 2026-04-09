@@ -102,7 +102,7 @@
 -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Amar%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
@@ -163,8 +163,67 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amarsingh789&style=flat-square&color=blue" alt="profile views" />
+</div> -->
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Amar%20Singh&fontSize=80&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20UI/UX%20Designer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer+%F0%9F%92%BB;Creative+Frontend+Specialist+%E2%9C%A8;Building+Ziva+Healthcare+App+%F0%9F%8F%A5;Learning+Advanced+GSAP+%26+Three.js+%F0%9F%8C%90" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amar-singh-39b4a3281/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin icon"/>
+  </a>
+  &nbsp; 
+  <a href="mailto:amar298976@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail icon"/>
+  </a>
+</div>
+
+<br/>
+
+<br/>
+
+### 👋 About Me
+
+- 🌐 **Portfolio:** Check out my work at [amar-singh-portfolio.vercel.app](https://amar-singh-portfolio.vercel.app)
+- 🚀 **Main Project:** Developing **Ziva**, a Healthcare/Clinic Management System focusing on seamless UX.
+- 🎨 **Design Focused:** Specialized in crafting responsive, high-performance interfaces with **Tailwind CSS**.
+- 🛠️ **Learning Journey:** Currently mastering the MERN stack and exploring **3D Web Development** (Three.js).
+- ⚡ **Mantra:** "I might be a slow learner, but I never quit!"
+
+### 🛠️ Tech Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,threejs" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" /> |
+| **Design/Tools** | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel" /> |
+
+---
+
+### 📊 My GitHub Journey
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amarsingh789&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amarsingh789&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarsingh789&theme=tokyonight&bg_color=0D1117&hide_border=true&color=3F51B5" width="100%" alt="activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarsingh789&style=flat-square&color=blue" alt="profile views" />
+</div>
 
 
 
